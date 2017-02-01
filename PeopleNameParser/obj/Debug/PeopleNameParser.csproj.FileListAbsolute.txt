@@ -1,0 +1,7 @@
+C:\powelldata_opstfs\ParsingSSIS\PeopleNameParser\PeopleNameParser\bin\Debug\PeopleNameParser.dll
+C:\powelldata_opstfs\ParsingSSIS\PeopleNameParser\PeopleNameParser\bin\Debug\PeopleNameParser.pdb
+C:\powelldata_opstfs\ParsingSSIS\PeopleNameParser\PeopleNameParser\obj\Debug\ResolveAssemblyReference.cache
+C:\powelldata_opstfs\ParsingSSIS\PeopleNameParser\PeopleNameParser\obj\Debug\PeopleNameParser.Properties.Resources.resources
+C:\powelldata_opstfs\ParsingSSIS\PeopleNameParser\PeopleNameParser\obj\Debug\PeopleNameParser.csproj.GenerateResource.Cache
+C:\powelldata_opstfs\ParsingSSIS\PeopleNameParser\PeopleNameParser\obj\Debug\PeopleNameParser.dll
+C:\powelldata_opstfs\ParsingSSIS\PeopleNameParser\PeopleNameParser\obj\Debug\PeopleNameParser.pdb
